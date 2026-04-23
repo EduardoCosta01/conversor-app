@@ -70,10 +70,3 @@ conversor-app/
   App.styles.js
 ```
 
-## Melhorias futuras sugeridas
-
-- Historico das ultimas conversoes
-- Validacao numerica mais completa para entrada de valor
-- Tratamento de erros com mensagens mais especificas (offline, timeout, API indisponivel)
-- Testes unitarios para utilitarios e componentes
-
